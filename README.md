@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 About Me: 
+Hi I'm Om Takate
 🔭 I’m a student learning AI, Data Science & Machine Learning<br>💬 I’m focused on learning and growing the skills🚀<br>⚡ I enjoy learning new things 🚀
 
 
